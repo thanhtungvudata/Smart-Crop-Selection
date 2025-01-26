@@ -1,5 +1,7 @@
 # Crop Prediction Using Machine Learning
 
+![Alt text](crop_selection_smart_farming.png)
+
 ## Project Overview
 This project aims to assist farmers in selecting the most suitable crop for their field based on soil nutrient measurements. The dataset used contains information on essential soil nutrients such as nitrogen (N), phosphorus (P), potassium (K), and pH values, to predict the optimal crop for a given set of soil conditions.
 

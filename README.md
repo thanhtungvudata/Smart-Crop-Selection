@@ -67,6 +67,6 @@ Evaluation metrics used in this project include:
 4. Explore deployment options using cloud-based platforms for real-time predictions.
 
 ## Contact
-For further inquiries or collaboration, please contact me at [my email](mailto:tungvutelecom@gmail.com).
+For further inquiries or collaboration, please contact me at [tungvu.telecom@gmail.com](mailto:tungvutelecom@gmail.com).
 
 

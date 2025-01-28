@@ -41,12 +41,11 @@ Evaluation metrics used in this project include:
 ## Results
 | Model   | Macro F1-Score |
 |---------|---------------|
-| XGBoost | 0.82          |
-| KNN     | 0.78          |
+| XGBoost | 0.79          |
+| KNN     | 0.70          |
 
 **Conclusion:**
 - XGBoost achieved higher accuracy and better generalization.
-- KNN is recommended when computational resources are limited, given its comparable performance with lower training cost.
 
 ## Steps to Run the Project
 1. Install the necessary dependencies.
